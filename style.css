@@ -1,0 +1,9 @@
+ul{
+    color: cornsilk;
+}
+li{
+    color: gold;
+    text-decoration: dotted;
+    background-color: rgb(11, 203, 236);
+    text-decoration-color: aquamarine;
+}

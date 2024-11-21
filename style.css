@@ -4,6 +4,11 @@ ul{
 li{
     color: gold;
     text-decoration: dotted;
-    background-color: rgb(21, 21, 21);
-    text-decoration-color: aquamarine;
+    background-color: rgb(227, 220, 220);
+    text-decoration-color: aquamarine;}
+h1{
+    margin: 50px;
+    padding: 70px;
+    box-shadow: 10px 10px red;
+    text-align: center;
 }

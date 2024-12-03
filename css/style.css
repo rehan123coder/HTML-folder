@@ -1,15 +1,22 @@
 .main{
     background-color: aqua;
-    display:flex
-    height: 100%;
-    width: 100%;
-    align items: 
+    display:grid ;
+    grid-template-rows:100px 200px 300px 400px  ;
+    grid-template-columns: 200px 600px ;
 }
 .one{
     background-color:red;
-    height:100px ;
-    width: 100px;
     padding: 10px;
     margin: 10px;
-    
 }
+    
+    .first{
+        background-color:red;
+        padding: 10px;
+        margin: 10px;
+        grid-row: 1/span 2;
+    }
+        
+       
+            
+            
